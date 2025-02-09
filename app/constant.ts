@@ -497,7 +497,7 @@ const openaiModels = [
   "deepseek-r1",
   "deepseek-v3",
 ];
-/*
+
 const googleModels = [
   "gemini-1.0-pro", // Deprecated on 2/15/2025
   "gemini-1.5-pro-latest",
@@ -595,13 +595,13 @@ const iflytekModels = [
   "generalv3.5",
   "4.0Ultra",
 ];
-*/
+
 const deepseekModels = [
   "deepseek-r1", 
   "deepseek-v3",
 ];
 
-/*
+
 const xAIModes = [
   "grok-beta",
   "grok-2",
